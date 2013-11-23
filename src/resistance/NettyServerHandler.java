@@ -2,7 +2,6 @@ package resistance;
 
 import io.netty.channel.ChannelHandlerContext;
 import io.netty.channel.SimpleChannelInboundHandler;
-import io.netty.handler.codec.Delimiters;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
